@@ -40,7 +40,7 @@ $ npm install
 $ npm start
 ```
 
-### Executar a Web API
+## 🛠️  Executar a Web API
 
 ```bash
 # Execute em outro terminal (dentro da pasta AluraCommerce)
@@ -48,8 +48,6 @@ $ npm start
 $ json-server --watch --host 192.168.5.123 db.json
 ```
 
-
-Espero que você utilize ao máximo deste projeto para se aprimorar! E se quiser dar um salve, estou lá no LinkedIn [André Louis Souza Ribeiro](https://www.linkedin.com/in/andre-louis-0362421a7/). :wave: 
 
 [nodejs]: https://nodejs.org/
 [expo]: https://docs.expo.dev/
